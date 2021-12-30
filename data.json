@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "Username": "harman",
+            "Password": "Harman@1234",
+            "Profile": {
+                "description": "i am good girl",
+                "d_o_b": "2/2/2004",
+                "Gender": "female",
+                "Hobbies": "dance"
+            }
+        }
+    ]
+}
